@@ -1,6 +1,6 @@
 ## Resources for Think 2020 Qiskit Master Class:
 
-### [Learn about IBM Q’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
+### [Learn about IBM Quantum’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
 
 ### Presenters: [Anamita Guha](https://twitter.com/anamitag) and [James Weaver](https://twitter.com/javafxpert)
 
