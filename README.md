@@ -1,6 +1,6 @@
 ## Resources for Think 2020 Qiskit Master Class:
 
-#### [Learn about IBM Quantum’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
+#### Title: [Learn about IBM Quantum’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
 
 #### Presenters: [Anamita Guha](https://twitter.com/anamitag) and [James Weaver](https://twitter.com/javafxpert)
 
@@ -9,11 +9,9 @@
 - [James Weaver's presentations slides](https://slides.com/javafxpert/qiskitblocks)
   - QiskitBlocks game site [qisk.it/blocks](https://github.com/JavaFXpert/QiskitBlocks)
 
-### [IBM Quantum Experience](https://quantum-computing.ibm.com/) (where you'll create a quantum game)
+#### [IBM Quantum Experience](https://quantum-computing.ibm.com/) (where you'll create a quantum game)
 
-
-
-## Quantum Game Challenge (Build a quantum 8-ball)
+#### Quantum Game Challenge (Build a quantum 8-ball)
 
 1. Optional but recommended if you're new to Qiskit:
   - Take the [Create your first quantum circuit](https://quantum-computing.ibm.com/docs/start-iqx/drag-drop/first-circ) tutorial (great primer on using Circuit Composer).
