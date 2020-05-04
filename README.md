@@ -23,6 +23,7 @@
 3. Create the circuit using Python and Qiskit in an IBM Quantum Experience Jupyter notebook.
    - Make the program print out a message unique to each measured state (e.g. state 000 message might be "The quantum 8-ball says it's most likely"). For reference, here are the [possible answers from the original Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball#Possible_answers).
    - If you'd like some hints, please see [this partial solution](https://github.com/JavaFXpert/think2020/blob/master/quantum_8ball_hints.ipynb)
+   - For reference, here is [one possible solution](https://github.com/JavaFXpert/think2020/blob/master/quantum_8ball_solution.ipynb)
 4. If you have time:
    - Rather than using a simulator, use the `from_instruction()` and `sample_counts()` methods of the `qiskit.quantum_info.Statevector` class. Your circuit should not have measure operations. 
    - Expand the circuit to four or five wires.
