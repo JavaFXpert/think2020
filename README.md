@@ -7,7 +7,7 @@
 - #### Anamita Guha's presentation slides
 
 - #### [James Weaver's presentations slides](https://slides.com/javafxpert/qiskitblocks)
-  - ### [QiskitBlocks game site qisk.it/blocks](https://github.com/JavaFXpert/QiskitBlocks)
+  - ### QiskitBlocks game site [qisk.it/blocks](https://github.com/JavaFXpert/QiskitBlocks)
 
 ### [IBM Quantum Experience](https://quantum-computing.ibm.com/) (where you'll create a quantum game)
 
