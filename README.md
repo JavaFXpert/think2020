@@ -14,7 +14,7 @@
 
 ## Quantum Game Challenge (Build a quantum 8-ball)
 
-1. Take the [Create your first quantum circuit] tutorial (https://quantum-computing.ibm.com/docs/start-iqx/drag-drop/first-circ)
+1. Take the [Create your first quantum circuit](https://quantum-computing.ibm.com/docs/start-iqx/drag-drop/first-circ) tutorial.
 2. In the IBM Quantum Experience Circuit Composer, create a three-wire circuit whose measurements are randomly distributed among 000 - 111.
    - View the **Statevector** and **Measurement Probabilities** from the **Visualizations** tab (bar graph image) on the left side of the page.
    - Observe the results when running your circuit on a backend quantum system or simulator. The shortest queues are typically with the 32 qubit simulator `ibmq_qasm_simulator in ibm-q/open/main`
