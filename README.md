@@ -1,3 +1,4 @@
+## This page is: [qisk.it/think2020](http://qisk.it/think2020)
 ## Resources for Think 2020 Qiskit Master Class:
 
 #### Title: [Learn about IBM Quantum’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
