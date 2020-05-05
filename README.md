@@ -9,6 +9,8 @@
 
 - [James Weaver's presentations slides](https://slides.com/javafxpert/qiskitblocks)
   - QiskitBlocks game site [qisk.it/blocks](https://github.com/JavaFXpert/QiskitBlocks)
+  - Open-source quantum computing software development framework site [Qiskit.org](http://qiskit.org) 
+  - Quantum computing textbook that leverages Qiskit [qisk.it/textbook](http://qisk.it/textbook) 
 
 #### [IBM Quantum Experience](https://quantum-computing.ibm.com/) (where you'll create a quantum game)
 
