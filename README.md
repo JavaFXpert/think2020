@@ -30,6 +30,7 @@
    - Rather than using a simulator, use the `from_instruction()` and `sample_counts()` methods of the `qiskit.quantum_info.Statevector` class. Your circuit should not have measure operations. 
    - Expand the circuit to four or five wires.
    - Add various single and multi-qubit gates to the circuit (in the Circuit Composer first if you'd like) and observe their effects on the measurement probabilities and results.
-
-
+   
+<br/>
+<a title="ChristianHeldt / Public domain" href="https://commons.wikimedia.org/wiki/File:Magic8ball.jpg"><img width="256" alt="Magic8ball" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Magic8ball.jpg"></a>
 
